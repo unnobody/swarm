@@ -1,0 +1,38 @@
+```
+# Flutter/Dart
+.dart_tool/
+.build/
+.flutter-plugins
+.flutter-plugin-dependencies
+.packages
+pubspec.lock
+
+# Rust
+target/
+Cargo.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+*.tmp
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+```
